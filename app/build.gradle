@@ -19,7 +19,7 @@ plugins {
 }
 
 android {
-    compileSdkVersion 32
+    compileSdkVersion 34
 
     defaultConfig {
         applicationId "com.example.dogglers"
